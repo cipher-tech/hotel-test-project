@@ -1,0 +1,22 @@
+.form-bg{
+    background: linear-gradient(to top left, #624af1e3, #d97de8);
+}
+
+#header-img{
+    height: 550px;
+    font-family: calibri;
+}
+#header-img .overlay{
+    background: #0d48eb8a;
+}
+#logo{
+    background: #0000009f;
+    position: relative;
+}
+#center-txt > div > h2{
+    font-family: Harrington
+}
+#roomImg img{
+    /* height: 200px;
+    width: 200px; */
+}
