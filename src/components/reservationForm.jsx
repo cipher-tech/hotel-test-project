@@ -115,7 +115,7 @@ function ReservationForm() {
                         </div>
                         <div className="modal-body">
                             Room booked.  <br/>
-                            please proceed to the hotel for payment and key assignment 
+                            please proceed   to the hotel for payment and key assignment 
       </div>
                         <div className="modal-footer">
                             <button type="button" className="btn btn-secondary" data-dismiss="modal">Close</button>
